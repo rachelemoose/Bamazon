@@ -34,4 +34,5 @@ However, if the store does have enough of the product, the customer's order will
 This means updating the SQL database to reflect the remaining quantity.
 Once the update goes through, show the customer the total cost of their purchase.
 
-[![Bamazon In Progress](https://img.youtube/tme-p7Um5VI.jpeg)](https://www.youtube.com/watch?v=tme-p7Um5VI&feature=youtu.be "Bamazon")
+View a full demonstration of the application here: 
+https://www.youtube.com/watch?v=tme-p7Um5VI&t=22s
